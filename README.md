@@ -3,3 +3,6 @@
 
  *api-kittens
     Displays a kitten GIF from Giphy on a Web page.
+    
+*markdown-examples.md
+    Demonstration of basic Markdown syntax.
